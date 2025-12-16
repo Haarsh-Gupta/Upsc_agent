@@ -1,0 +1,7 @@
+uuid
+requests
+tqdm
+langchain-text-splitters
+psycopg2-binary 
+cloudinary 
+python-dotenv
