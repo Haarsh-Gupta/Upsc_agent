@@ -1,7 +1,16 @@
-uuid
-requests
-tqdm
-langchain-text-splitters
-psycopg2-binary 
-cloudinary 
+# uuid
+# requests
+# tqdm
+# langchain-text-splitters
+# psycopg2-binary 
+# cloudinary 
+# python-dotenv
+
+
+fastapi
+uvicorn
+python-multipart
+langchain-google-genai
+langchain-core
+pydantic
 python-dotenv
